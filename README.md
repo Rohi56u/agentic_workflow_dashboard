@@ -195,6 +195,8 @@ Created as part of the AI for Bharat Workshop 5: Building agentic workflows in P
 
 ---
 
+[![Made with Rohit](https://img.shields.io/badge/Made%20with-Rohit-ff69b4?style=for-the-badge&logo=heart)](https://github.com/Rohi56u)
+
 **Made with Rohit** ❤️
 
 For more information about agentic workflows and advanced AI patterns, check out the [AWS Builder Center blog post](https://aws.amazon.com/blogs/builder/) about this project.
