@@ -246,7 +246,7 @@ Rohit Choudhary is an AI engineer and developer passionate about building intell
 **Related Resources:**
 
 - GitHub Repository: https://github.com/Rohi56u/agentic_workflow_dashboard
-- Live Dashboard: https://agentic-workflow-dashboard.manus.space
+- Live Dashboard: https://agentic-workflow-dashboard.rohit.space
 - Workshop Materials: AI for Bharat Program
 
 ---

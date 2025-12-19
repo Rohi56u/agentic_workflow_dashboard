@@ -376,9 +376,9 @@ pnpm build
 
 This creates an optimized production build in the `dist/` directory.
 
-### Deploy to Manus
+### Deploy to Production
 
-The project is ready to deploy on Manus hosting:
+The project is ready to deploy on production hosting:
 
 1. Click the **Publish** button in the Management UI
 2. Configure your custom domain
